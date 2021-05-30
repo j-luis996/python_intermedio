@@ -16,3 +16,9 @@ source venv/bin/activate
 ```
 deactivate
 ```
+
+### instalar dependencias 
+
+```
+pip install -r requirements.txt
+```
